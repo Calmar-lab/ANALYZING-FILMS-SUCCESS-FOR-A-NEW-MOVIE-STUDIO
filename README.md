@@ -8,12 +8,12 @@ The project's findings will be translated into strategic recommendations, guidin
 
 
 ## OVERVIEW
-Our project analyzes the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and the seasons that had the highest amount of average gross revenue. This analysis intends to offer insight into market trends and audience preferences for different genres that could guide the decision of our company.
+Our project analyzes the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and seasons that had the highest average gross revenue. This analysis intends to offer insight into market trends and audience preferences for different genres that could guide our company's decision-making.
 
 
 ## PROJECT OBJECTIVES
 #### 1. Identify the top-rated genres to prioritize:
-By identifying the genres that are most popular with audiences and generate high returns, the company can focus its production efforts on genres with the highest potential for profitability. This would involve analyzing past performance data on genre-based ratings, allowing the company to strategically invest resources into the genres that resonate with a wider audience.
+By identifying the most popular genres with audiences and generating high returns, the company can focus its production efforts on genres with the highest potential for profitability. This would involve analyzing past performance data on genre-based ratings, allowing the company to strategically invest resources into the genres that resonate with a wider audience.
 
 #### 2. Identify the most popular directors/writers for collaboration:
 Recognizing directors and writers with the most productions helps the company make informed partnership decisions. Collaborating with professionals can improve the quality of production.
@@ -38,8 +38,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 ## DATA VISUALIZATIONS & RECOMMENDATIONS
 #### 1. Identify the top-rated genres to prioritize:
-
-
+![Alt text for the image](URL_of_the_image)
 
 ##### Recommendation
 - Prioritize producing films in the highest-rated genres identified in the analysis, as these align with audience preferences and are likely to drive higher returns on investment.
@@ -52,8 +51,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 2. Identify the most popular directors/writers for collaboration:
-
-
+![Alt text for the image](URL_of_the_image)
 
 ##### Recommendation
 - Collaborate with the prolific directors and writers identified in the analysis to leverage their industry experience and minimize the risks associated with inexperience.
@@ -64,8 +62,9 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 
-#### 3. Find out the optimal seasons for movie releases:
 
+#### 3. Find out the optimal seasons for movie releases:
+![Alt text for the image](URL_of_the_image)
 
 ##### Recommendation
 - Release high-budget films during the months/seasons with historically higher revenues to maximize audience engagement and box office performance.
@@ -78,7 +77,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 4. Estimate the production budget:
-
+![Alt text for the image](URL_of_the_image)
 
 ##### Recommendations
 - Consider maintaining production budgets near or below the mean (as indicated by the red line) to minimize financial risk while remaining competitive in the market.
@@ -90,7 +89,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 5. Estimate the average revenue on films:
-
+![Alt text for the image](URL_of_the_image)
 
 ##### Recommendations
 - Establish realistic revenue expectations, aiming for targets near or above the mean revenue to align with industry norms.
@@ -103,7 +102,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 6. Investigate the trend of movie production over the years:
-
+![Alt text for the image](URL_of_the_image)
 
 #### Recommendation
 - Track the decline in movie production from 2019 to 2023 for potential industry challenges. In this case, investigate the rise of social media and the effects of COVID-19 during this decline period.
