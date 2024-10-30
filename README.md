@@ -51,7 +51,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 2. Identify the most popular directors/writers for collaboration:
-![Alt text for the image](URL_of_the_image)
+![Most Popular Creators](Visualizations/Most_Popular_Creators.png)
 
 ##### Recommendation
 - Collaborate with the prolific directors and writers identified in the analysis to leverage their industry experience and minimize the risks associated with inexperience.
