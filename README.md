@@ -1,5 +1,5 @@
 # ANALYZING-FILMS-SUCCESS-FOR-A-NEW-MOVIE-STUDIO
-This analysis identifies key factors for film success to guide a new movie studio in building a successful portfolio. We examine genre popularity, runtimes, budgets, among other features to provide insights to align productions with audience demand and maximize profitability.
+This analysis identifies key factors for film success to guide a new movie studio in building a successful portfolio. We examine genre popularity, budgets, among other features to provide insights to align productions with audience demand and maximize profitability.
 
 ## OVERVIEW
 Our project analyses the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and the seasons that had the highest amount of average gross revenue. This analysis intends to offer insight into market trends and audience preference for different genres that could guide the decision of a company that wants to invest in the film industry
