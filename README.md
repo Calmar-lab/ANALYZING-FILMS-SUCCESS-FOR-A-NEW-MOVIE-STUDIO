@@ -12,22 +12,22 @@ Our project analyzes the trends in the movie industry over the past few years in
 
 
 ## PROJECT OBJECTIVES
-##### 1. Identify the top-rated genres to prioritize:
+#### 1. Identify the top-rated genres to prioritize:
 By identifying the genres that are most popular with audiences and generate high returns, the company can focus its production efforts on genres with the highest potential for profitability. This would involve analyzing past performance data on genre-based ratings, allowing the company to strategically invest resources into the genres that resonate with a wider audience.
 
-##### 2. Identify the most popular directors/writers for collaboration:
+#### 2. Identify the most popular directors/writers for collaboration:
 Recognizing directors and writers with the most productions helps the company make informed partnership decisions. Collaborating with professionals can improve the quality of production.
 
-##### 3. Find out the optimal seasons for movie releases:
+#### 3. Find out the optimal seasons for movie releases:
 Seasonal trends play a significant role in box office success. By understanding which release periods typically generate the most revenue, the company can schedule releases during high-demand periods. 
 
-##### 4. Estimate the production budget:
+#### 4. Estimate the production budget:
 Knowing the average production budget allows the company to set realistic financial expectations for new projects and assess potential funding requirements. 
 
-##### 5. Estimate the average returns on films:
+#### 5. Estimate the average returns on films:
 Analyzing the average return on investment (ROI) provides the company with a baseline for evaluating project performance. 
 
-##### 6. Investigate the trend of movie production over the years:
+#### 6. Investigate the trend of movie production over the years:
 By recognizing this trend, the company can adapt its production strategy to stay competitive, whether that means increasing output, adjusting genres, or diversifying distribution methods.
 
 
