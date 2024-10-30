@@ -1,10 +1,10 @@
-## ANALYZING-FILMS-SUCCESS-FOR-A-NEW-MOVIE-STUDIO
+# ANALYZING-FILMS-SUCCESS-FOR-A-NEW-MOVIE-STUDIO
 This analysis identifies key factors for film success to guide a new movie studio in building a successful portfolio. We examine genre popularity, runtimes, budgets, among other features to provide insights to align productions with audience demand and maximize profitability.
 
-# OVERVIEW
+## OVERVIEW
 Our project analyses the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and the seasons that had the highest amount of average gross revenue. This analysis intends to offer insight into market trends and audience preference for different genres that could guide the decision of a company that wants to invest in the film industry
 
-# BUSINESS UNDERSTANDING
+## BUSINESS UNDERSTANDING
 1.Top Genres to Prioritize: By identifying the genres that are most popular with audiences and generate high returns, the company can focus its production efforts on genres with the highest potential for profitability. This would involve analyzing past performance data on genre-based revenue and audience preferences, allowing the company to strategically invest resources into the genres that resonate most with viewers.
 
 2.Most Popular Directors/Writers for Collaboration: Recognizing directors and writers with a strong track record of popular, profitable films helps the company make informed partnership decisions. Collaborating with renowned industry professionals can improve the quality of production, boost marketing appeal, and attract a loyal audience base, directly impacting box office and streaming revenues.
@@ -17,9 +17,9 @@ Our project analyses the trends in the movie industry over the past few years in
 
 6.Trend of Movie Production Over the Years: Examining how the volume, budget, and genre distribution of movie production have evolved over time can inform the company of changing industry dynamics and audience tastes. By recognizing these trends, the company can adapt its production strategy to stay competitive, whether that means increasing output, adjusting genres, or diversifying distribution methods.
 
-# DATA UNDERSTANDING AND ANALYSIS 
+## DATA UNDERSTANDING AND ANALYSIS 
 The data that we used are both a database file called im. db and a CSV file named tn.movie_budgets.csv. The database file encompasses a few tables that are filled with information on movies like title, genre, release year, and rating. The CSV provides information on movie name, production budget, domestic gross, worldwide gross, and the release date of the movie. We used these data to analyze aspects of movie production on financial lines and also the most preferred genres. Both the above files were preprocessed and combined where required to make one dataset from which analyses can be done.
 
-# VISUALIZATIONS
+## VISUALIZATIONS
 
-# CONCLUSION
+## CONCLUSION
