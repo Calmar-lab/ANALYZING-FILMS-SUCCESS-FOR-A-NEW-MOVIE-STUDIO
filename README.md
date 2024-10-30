@@ -10,7 +10,7 @@ The project's findings will be translated into strategic recommendations, guidin
 ## OVERVIEW
 Our project analyzes the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and seasons that had the highest average gross revenue. This analysis intends to offer insight into market trends and audience preferences for different genres that could guide our company's decision-making.
 
-##### Note that the database used in this analysis was too large to be uploaded to Git Hub, as well as the presentation PDF. However, the presentation PDF has been linked [here](https://www.canva.com/design/DAGU25uEniQ/2dUtZtnq2d3E0-AD998m4g/edit) and at the end of this readme file.  
+### Note that the database used in this analysis was too large to be uploaded to Git Hub, as well as the presentation PDF. However, the presentation PDF has been linked [here](https://www.canva.com/design/DAGU25uEniQ/2dUtZtnq2d3E0-AD998m4g/edit) and at the end of this readme file.  
 
 
 ## PROJECT OBJECTIVES
