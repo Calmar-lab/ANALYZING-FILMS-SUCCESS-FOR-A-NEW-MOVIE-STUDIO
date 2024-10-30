@@ -64,7 +64,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 3. Find out the optimal seasons for movie releases:
-![Alt text for the image](URL_of_the_image)
+![Best release seasons](Visualizations/Average%20Worldwide%20Gross%20by%20Season.png)
 
 ##### Recommendation
 - Release high-budget films during the months/seasons with historically higher revenues to maximize audience engagement and box office performance.
@@ -77,7 +77,8 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 4. Estimate the production budget:
-![Alt text for the image](URL_of_the_image)
+![Production budget](Visualizations/Distribution%20of%20production%20budget.png)
+
 
 ##### Recommendations
 - Consider maintaining production budgets near or below the mean (as indicated by the red line) to minimize financial risk while remaining competitive in the market.
@@ -89,7 +90,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 5. Estimate the average revenue on films:
-![Alt text for the image]([URL_of_the_image](https://github.com/Calmar-lab/ANALYZING-FILMS-SUCCESS-FOR-A-NEW-MOVIE-STUDIO/blob/main/Average%20Worldwide%20Gross%20by%20Month.png?raw=true))
+![Movie revenue](Visualizations/Distribution%20of%20Worldwide%20Gross%20Revenue.png)
 
 ##### Recommendations
 - Establish realistic revenue expectations, aiming for targets near or above the mean revenue to align with industry norms.
@@ -102,7 +103,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 6. Investigate the trend of movie production over the years:
-![Alt text for the image](URL_of_the_image)
+![Movie production trend](Visualizations/Trend%20of%20movie%20production%20over%20the%20years.png)
 
 #### Recommendation
 - Track the decline in movie production from 2019 to 2023 for potential industry challenges. In this case, investigate the rise of social media and the effects of COVID-19 during this decline period.
@@ -117,26 +118,26 @@ Key attributes such as genre, runtime, release timing, and financial performance
 #### Linear Regression Model of the Relationship Between Production Budget and Worldwide Gross Revenue
 
 ##### The relationship between production_budget and worldwide_gross
-
-
+![Linear regression](Visualizations/Linear%20regression.png)
 
 ##### Interpretation
 The scatter plot presents a not-so-perfect linear relationship between the variables but there is a positive relationship between the production budget and worldwide gross revenue.
 
 
 ##### Checking the model fit
-
+![Model fit](Visualizations/Checking%20the%20model%20fit.png)
 
 ##### Interpretation
 - The upward slope of the regression line indicates a positive relationship between Production Budget and Worldwide Gross. This suggests that, on average, as the production budget increases, the worldwide gross revenue tends to increase as well.
 
 - Visually, the regression line depicts a line of best fit illustrating how well our model is performing. Since most values are closely scattered around the regression line, it indicates that the model provides reasonably accurate predictions of worldwide gross revenue based on production budget. However, the presence of some scattered points, especially at higher budget levels, suggests that there are other influencing factors not captured by this model, indicating room for further exploration and improvement
 
-
 #### Recommendation based on the model Analysis
 Based on the analysis, we recommended that the company should consider budgeting for an increased production budget, as even a modest increase is likely to yield a proportional rise in worldwide gross revenue, enhancing overall profitability.
 
+
 #### A PDF presentation is [here](https://www.canva.com/design/DAGU25uEniQ/2dUtZtnq2d3E0-AD998m4g/edit?utm_content=DAGU25uEniQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
 
 ## CONCLUSION
 This project has provided a comprehensive analysis of box office data sourced from IMDb and TMDb, uncovering success factors in the film industry. By examining genres, prolific creators, among other factors, we've derived actionable insights to guide the new movie studio's production strategy.
