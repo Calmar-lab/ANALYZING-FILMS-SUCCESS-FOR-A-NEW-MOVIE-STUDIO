@@ -89,7 +89,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 
 #### 5. Estimate the average revenue on films:
-![Alt text for the image](URL_of_the_image)
+![Alt text for the image]([URL_of_the_image](https://github.com/Calmar-lab/ANALYZING-FILMS-SUCCESS-FOR-A-NEW-MOVIE-STUDIO/blob/main/Average%20Worldwide%20Gross%20by%20Month.png?raw=true))
 
 ##### Recommendations
 - Establish realistic revenue expectations, aiming for targets near or above the mean revenue to align with industry norms.
