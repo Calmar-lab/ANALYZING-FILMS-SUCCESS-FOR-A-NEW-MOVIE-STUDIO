@@ -1,24 +1,144 @@
 # ANALYZING-FILMS-SUCCESS-FOR-A-NEW-MOVIE-STUDIO
-This analysis identifies key factors for film success to guide a new movie studio in building a successful portfolio. We examine genre popularity, budgets, among other features to provide insights to align productions with audience demand and maximize profitability.
-
-## OVERVIEW
-Our project analyses the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and the seasons that had the highest amount of average gross revenue. This analysis intends to offer insight into market trends and audience preference for different genres that could guide the decision of a company that wants to invest in the film industry
+This analysis identifies key factors for film success to guide a new movie studio in building a successful portfolio. We examine genre popularity, and budgets, among other features to provide insights to align productions with audience demand and maximize profitability.
 
 ## BUSINESS UNDERSTANDING
-1.Top Genres to Prioritize: By identifying the genres that are most popular with audiences and generate high returns, the company can focus its production efforts on genres with the highest potential for profitability. This would involve analyzing past performance data on genre-based revenue and audience preferences, allowing the company to strategically invest resources into the genres that resonate most with viewers.
+To capitalize on the recent surge in original video content, our company is launching a new movie studio. This project seeks to analyze box office data to study the successes of films, genres, and directors, among other key performance factors to help the company make informed decisions on the type of films to produce.
 
-2.Most Popular Directors/Writers for Collaboration: Recognizing directors and writers with a strong track record of popular, profitable films helps the company make informed partnership decisions. Collaborating with renowned industry professionals can improve the quality of production, boost marketing appeal, and attract a loyal audience base, directly impacting box office and streaming revenues.
+The project's findings will be translated into strategic recommendations, guiding stakeholders to make data-driven decisions and positioning the studio for success.
 
-3.Optimal Seasons for Movie Releases: Seasonal trends play a significant role in box office success. By understanding when movies typically achieve peak revenue (e.g., summer blockbusters, holiday season releases), the company can schedule releases during high-demand periods. This timing ensures higher attendance and visibility, maximizing returns on marketing investments and production costs.
 
-4.Average Production Budget: Knowing the average production budget allows the company to set realistic financial expectations for new projects and assess potential funding requirements. Understanding budget trends helps the company allocate resources more effectively, avoid budget overruns, and maintain profitability across projects.
+## OVERVIEW
+Our project analyzes the trends in the movie industry over the past few years in terms of the volume of production, which is the number of movies produced per year, preferences, and trending genres. It also focuses on the production costs and the gross revenue earned from the movies. It also focuses on the months and the seasons that had the highest amount of average gross revenue. This analysis intends to offer insight into market trends and audience preferences for different genres that could guide the decision of our company.
 
-5.Average Returns on Films: Analyzing the average return on investment (ROI) provides the company with a baseline for evaluating project performance. Insights on average returns help the company benchmark future projects and ensure investments align with financial goals. This understanding supports more strategic project selection and budget allocation, ultimately driving sustainable profitability.
 
-6.Trend of Movie Production Over the Years: Examining how the volume, budget, and genre distribution of movie production have evolved over time can inform the company of changing industry dynamics and audience tastes. By recognizing these trends, the company can adapt its production strategy to stay competitive, whether that means increasing output, adjusting genres, or diversifying distribution methods.
+## PROJECT OBJECTIVES
+##### 1. Identify the top-rated genres to prioritize:
+By identifying the genres that are most popular with audiences and generate high returns, the company can focus its production efforts on genres with the highest potential for profitability. This would involve analyzing past performance data on genre-based ratings, allowing the company to strategically invest resources into the genres that resonate with a wider audience.
+
+##### 2. Identify the most popular directors/writers for collaboration:
+Recognizing directors and writers with the most productions helps the company make informed partnership decisions. Collaborating with professionals can improve the quality of production.
+
+##### 3. Find out the optimal seasons for movie releases:
+Seasonal trends play a significant role in box office success. By understanding which release periods typically generate the most revenue, the company can schedule releases during high-demand periods. 
+
+##### 4. Estimate the production budget:
+Knowing the average production budget allows the company to set realistic financial expectations for new projects and assess potential funding requirements. 
+
+##### 5. Estimate the average returns on films:
+Analyzing the average return on investment (ROI) provides the company with a baseline for evaluating project performance. 
+
+##### 6. Investigate the trend of movie production over the years:
+By recognizing this trend, the company can adapt its production strategy to stay competitive, whether that means increasing output, adjusting genres, or diversifying distribution methods.
+
+
 
 ## DATA UNDERSTANDING AND ANALYSIS
-The data that we used are both a database file called im. db and a CSV file named tn.movie_budgets.csv. The database file encompasses a few tables that are filled with information on movies like title, genre, release year, and rating. The CSV provides information on movie name, production budget, domestic gross, worldwide gross, and the release date of the movie. We used these data to analyze aspects of movie production on financial lines and also the most preferred genres. Both the above files were preprocessed and combined where required to make one dataset from which analyses can be done.
+This analysis uses data sourced from IMDb, a database, and TMDb, a CSV file, which provides comprehensive information on movies, including genres, directors, release dates, and audience ratings.
+Key attributes such as genre, runtime, release timing, and financial performance will be assessed to ensure relevance and accuracy in analyzing factors that contribute to box office success. Quality checks will address any missing values or inconsistencies to prepare the data for analysis.
 
-## VISUALIZATIONS
+## DATA VISUALIZATIONS & RECOMMENDATIONS
+#### 1. Identify the top-rated genres to prioritize:
+
+
+
+##### Recommendation
+- Prioritize producing films in the highest-rated genres identified in the analysis, as these align with audience preferences and are likely to drive higher returns on investment.
+- Top-rated genres often correlate with high viewership, so strategically invest in these genres to enhance audience engagement and maximize profitability.
+
+##### Next Steps;
+- Conduct a deeper market analysis to investigate the trends of audience genre preferences and interests. Further, analyze the top creators of these top-rated genres and consider collaboration.
+
+
+
+
+#### 2. Identify the most popular directors/writers for collaboration:
+
+
+
+##### Recommendation
+- Collaborate with the prolific directors and writers identified in the analysis to leverage their industry experience and minimize the risks associated with inexperience.
+- Leverage the existing fan base of these creators to enhance the company’s credibility and attract an audience from the outset, fostering a strong market entry.
+
+##### Next steps;
+- Further investigate and analyze to understand the success rate of these creators, despite them producing the most films.
+
+
+
+#### 3. Find out the optimal seasons for movie releases:
+
+
+##### Recommendation
+- Release high-budget films during the months/seasons with historically higher revenues to maximize audience engagement and box office performance.
+- Minimize major releases during the consistently low-revenue months/seasons; instead, consider using these periods for smaller films or niche projects, ensuring proper resource allocation.
+
+##### Next steps
+- Investigate how various genres perform in specific months to identify trends and optimal release periods for each genre.
+- Further, analyze to find out the relationship between the time a movie is released and the revenue it generates.
+
+
+
+#### 4. Estimate the production budget:
+
+
+##### Recommendations
+- Consider maintaining production budgets near or below the mean (as indicated by the red line) to minimize financial risk while remaining competitive in the market.
+
+##### Next steps;
+- Analyze the correlation between budget ranges and revenue success.
+- Examine which genres require higher budgets and investigate the ROI at lower budget levels.
+
+
+
+#### 5. Estimate the average revenue on films:
+
+
+##### Recommendations
+- Establish realistic revenue expectations, aiming for targets near or above the mean revenue to align with industry norms.
+- Assess if the target revenue for upcoming films falls within competitive brackets, ensuring alignment with successful films in the market.
+
+##### Next steps;
+- Analyze the correlation between production budgets and worldwide gross revenue to identify optimal budget levels for returns.
+- Assess gross revenue by genre to find out high-performing genres for targeted investments.
+
+
+
+#### 6. Investigate the trend of movie production over the years:
+
+
+#### Recommendation
+- Track the decline in movie production from 2019 to 2023 for potential industry challenges. In this case, investigate the rise of social media and the effects of COVID-19 during this decline period.
+- Plan a careful investment approach in new productions.
+
+##### Next steps;
+- Identify and study successful films released post-2020 to discern effective genres, budgets, and distribution platforms.
+- Investigate how streaming has influenced production and profitability, shaping future distribution strategies.
+
+
+### LINEAR REGRESSION
+#### Linear Regression Model of the Relationship Between Production Budget and Worldwide Gross Revenue
+
+##### The relationship between production_budget and worldwide_gross
+
+
+
+##### Interpretation
+The scatter plot presents a not-so-perfect linear relationship between the variables but there is a positive relationship between the production budget and worldwide gross revenue.
+
+
+##### Checking the model fit
+
+
+##### Interpretation
+- The upward slope of the regression line indicates a positive relationship between Production Budget and Worldwide Gross. This suggests that, on average, as the production budget increases, the worldwide gross revenue tends to increase as well.
+
+- Visually, the regression line depicts a line of best fit illustrating how well our model is performing. Since most values are closely scattered around the regression line, it indicates that the model provides reasonably accurate predictions of worldwide gross revenue based on production budget. However, the presence of some scattered points, especially at higher budget levels, suggests that there are other influencing factors not captured by this model, indicating room for further exploration and improvement
+
+
+#### Recommendation based on the model Analysis
+Based on the analysis, we recommended that the company should consider budgeting for an increased production budget, as even a modest increase is likely to yield a proportional rise in worldwide gross revenue, enhancing overall profitability.
+
+
+
 ## CONCLUSION
+This project has provided a comprehensive analysis of box office data sourced from IMDb and TMDb, uncovering success factors in the film industry. By examining genres, prolific creators, among other factors, we've derived actionable insights to guide the new movie studio's production strategy.
+The visualizations effectively communicated these findings. As the company moves forward, leveraging these insights will be crucial for developing a profitable film portfolio and ensuring a competitive edge in the evolving landscape of original video content.
