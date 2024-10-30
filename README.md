@@ -136,7 +136,7 @@ The scatter plot presents a not-so-perfect linear relationship between the varia
 #### Recommendation based on the model Analysis
 Based on the analysis, we recommended that the company should consider budgeting for an increased production budget, as even a modest increase is likely to yield a proportional rise in worldwide gross revenue, enhancing overall profitability.
 
-
+#### A PDF presentation is [here](https://www.canva.com/design/DAGU25uEniQ/2dUtZtnq2d3E0-AD998m4g/edit).
 
 ## CONCLUSION
 This project has provided a comprehensive analysis of box office data sourced from IMDb and TMDb, uncovering success factors in the film industry. By examining genres, prolific creators, among other factors, we've derived actionable insights to guide the new movie studio's production strategy.
