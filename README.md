@@ -38,7 +38,7 @@ Key attributes such as genre, runtime, release timing, and financial performance
 
 ## DATA VISUALIZATIONS & RECOMMENDATIONS
 #### 1. Identify the top-rated genres to prioritize:
-![Alt text for the image](URL_of_the_image)
+![Top Rated Genres](viz/Top Rated Genres.png)
 
 ##### Recommendation
 - Prioritize producing films in the highest-rated genres identified in the analysis, as these align with audience preferences and are likely to drive higher returns on investment.
